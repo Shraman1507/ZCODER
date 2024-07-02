@@ -27,9 +27,9 @@ ZCoder is a dynamic coding platform designed to help developers practice coding 
 
 ### How to Run
 - **Open Integrated Terminal of Zcoder**
-   -npm install
-   -npm run dev
+-npm install
+-npm run dev
 - **Open Integrated Terminal of Backend(cd Backend)**
-   -npm i
-   -npm start
+-npm i
+-npm start
 
